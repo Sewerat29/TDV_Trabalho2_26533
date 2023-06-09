@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533.csproj": {}
+    "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\TDV_Trabalho2_26533\\TDV_Trabalho2_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533.csproj": {}
   },
   "projects": {
-    "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533.csproj": {
+    "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\TDV_Trabalho2_26533\\TDV_Trabalho2_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533.csproj",
+        "projectUniqueName": "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\TDV_Trabalho2_26533\\TDV_Trabalho2_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533.csproj",
         "projectName": "Trabalho2_Tecnicas_26533",
-        "projectPath": "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533.csproj",
+        "projectPath": "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\TDV_Trabalho2_26533\\TDV_Trabalho2_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533.csproj",
         "packagesPath": "C:\\Users\\Zaku\\.nuget\\packages\\",
-        "outputPath": "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\obj\\",
+        "outputPath": "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\TDV_Trabalho2_26533\\TDV_Trabalho2_26533\\Trabalho2_Tecnicas_26533\\Trabalho2_Tecnicas_26533\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zaku\\AppData\\Roaming\\NuGet\\NuGet.Config",
