@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>W:/IPCA/1_Ano/2_Semestre/Tecnicas_Desenvolvimento_Videojogos/monogame/monogame/monogame/Content/Background.png</File>
+    <File>W:/IPCA/1_Ano/2_Semestre/Tecnicas_Desenvolvimento_Videojogos/monogame/monogame/monogame/Content/Credits.spritefont</File>
+    <File>W:/IPCA/1_Ano/2_Semestre/Tecnicas_Desenvolvimento_Videojogos/monogame/monogame/monogame/Content/enemy-sheet.png</File>
+    <File>W:/IPCA/1_Ano/2_Semestre/Tecnicas_Desenvolvimento_Videojogos/monogame/monogame/monogame/Content/kunai.png</File>
+    <File>W:/IPCA/1_Ano/2_Semestre/Tecnicas_Desenvolvimento_Videojogos/monogame/monogame/monogame/Content/player-sheet.png</File>
+    <File>W:/IPCA/1_Ano/2_Semestre/Tecnicas_Desenvolvimento_Videojogos/monogame/monogame/monogame/Content/Score.spritefont</File>
+    <File>W:/IPCA/1_Ano/2_Semestre/Tecnicas_Desenvolvimento_Videojogos/monogame/monogame/monogame/Content/StartButton.spritefont</File>
+    <File>W:/IPCA/1_Ano/2_Semestre/Tecnicas_Desenvolvimento_Videojogos/monogame/monogame/monogame/Content/Timer.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

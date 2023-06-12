@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJipr/0aW/6iFpOAkTBSkhTIeFfDfyk5iMZoJ3VeYe+Q8LW2Ac1pMigTS4m08b2B3crwZmfIL8Cwt6i4T7qPqQ==",
+  "success": true,
+  "projectFilePath": "W:\\IPCA\\1_Ano\\2_Semestre\\Tecnicas_Desenvolvimento_Videojogos\\monogame\\monogame\\monogame\\TDV_Trabalho2_26533.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zaku\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Zaku\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
